@@ -1,0 +1,32 @@
+<svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+
+<circle cx="70" cy="75" r="45" fill="#1565C0"/>
+
+<path d="M35 75 Q70 35 105 75 Q70 115 35 75" 
+fill="none" stroke="white" stroke-width="5"/>
+
+<text x="130" y="70"
+font-family="Arial"
+font-size="45"
+font-weight="bold"
+fill="#1565C0">
+GLOBAL
+</text>
+
+<text x="130" y="115"
+font-family="Arial"
+font-size="45"
+font-weight="bold"
+fill="#D32F2F">
+NEWS
+</text>
+
+<text x="360" y="115"
+font-family="Arial"
+font-size="45"
+font-weight="bold"
+fill="#E0A800">
+365
+</text>
+
+</svg>
