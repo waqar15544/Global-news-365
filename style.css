@@ -88,3 +88,36 @@ footer {
 h2 {
     margin-bottom: 15px;
 }
+@media (max-width: 700px) {
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    header img {
+        width: 100px;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav a {
+        margin: 0;
+    }
+
+    .container {
+        width: 95%;
+    }
+
+    .news-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .card img {
+        height: 160px;
+    }
+
+}
